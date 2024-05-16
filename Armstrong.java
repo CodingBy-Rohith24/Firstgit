@@ -26,7 +26,11 @@ temp2=temp2/10;
 temp2++;
 }
 if(sum==i)
+<<<<<<< HEAD
+System.out.println("the armstrong number is:"+i);//final result
+=======
 System.out.println("the armstrong number is:"+i);//printing armstrong number 
+>>>>>>> origin/master
 }
 }
 }
