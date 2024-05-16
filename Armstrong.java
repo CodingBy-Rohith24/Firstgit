@@ -26,7 +26,7 @@ temp2=temp2/10;
 temp2++;
 }
 if(sum==i)
-System.out.println("the armstrong number is:"+i);
+System.out.println("the armstrong number is:"+i);//final result
 }
 }
 }
